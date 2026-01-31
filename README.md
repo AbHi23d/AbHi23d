@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Abhi
 
 I’m an analytics professional with a strong foundation in SQL, Python, and Business Intelligence, focused on helping teams make better, faster decisions. I work end to end across the analytics lifecycle—from data extraction and transformation to analysis, visualization, and decision support—turning complex, messy datasets into clear, reliable, stakeholder-focused insights that drive performance tracking, risk-based decisions, and operational outcomes across business, operational, and applied healthcare contexts.
-I prioritize analysis that actually gets used, valuing rigor, clarity, and real-world impact over flashy models.
-I bring this mindset to analytics problems across business, operations, and applied healthcare contexts, working end to end—from data extraction and transformation to analysis, visualization, and decision support.
+
+I prioritize analysis that actually gets used, valuing rigor, clarity, and real-world impact over flashy models and bring this mindset to analytics problems across business, operations, and applied healthcare contexts, working end to end—from data extraction and transformation to analysis, visualization, and decision support.
 
 ---
 
