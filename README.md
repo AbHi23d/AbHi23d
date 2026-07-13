@@ -1,8 +1,16 @@
-# 👋 Hi, I’m Abhi
+# Hi, I’m Abhi
 
-I’m an analytics professional with a strong foundation in SQL, Python, and Business Intelligence, focused on helping teams make better, faster decisions. I work end to end across the analytics lifecycle—from data extraction and transformation to analysis, visualization, and decision support—turning complex, messy datasets into clear, reliable, stakeholder-focused insights that drive performance tracking, risk-based decisions, and operational outcomes across business, operational, and applied healthcare contexts.
+I'm a Data Analyst with hands-on experience in SQL, Python, and Business Intelligence, 
+focused on turning data into insights that support real business decisions. In my work, 
+I build KPI dashboards, clean and validate datasets, and analyze trends to support 
+stakeholder reporting.
 
-I prioritize analysis that actually gets used, valuing rigor, clarity, and real-world impact over flashy models and bring this mindset to analytics problems across business, operations, and applied healthcare contexts, working end to end—from data extraction and transformation to analysis, visualization, and decision support.
+Outside of work, I build end-to-end analytics projects spanning retail, sports, and 
+healthcare data to explore predictive modeling, segmentation, and dashboard design. 
+I do this deliberately, across different domains, to prove the same rigorous process 
+holds up regardless of the industry.
+
+I care about analysis that's accurate and actually gets used.
 
 ---
 
@@ -30,17 +38,29 @@ I prioritize analysis that actually gets used, valuing rigor, clarity, and real-
 ---
 
 ## 📌 Featured Projects
-### ⚽ Football Analytics & Prediction System
-- Analyzed **3,800+ Premier League matches** across 10 seasons using SQL and Python  
-- Engineered performance indicators (ELO, form, momentum) to capture team dynamics  
-- Built predictive models with strict temporal validation  
-- Delivered insights through **Tableau and Streamlit dashboards** for comparative analysis
+### 🛍️ Customer & Marketing Analytics
+*Customer segmentation (RFM + K-Means) of $1M+ in retail transactions — VIP customers driving 66% of revenue*
+
+- Analyzed $1.08M in retail transactions to identify which customers actually drive revenue
+- Used RFM segmentation and K-Means clustering to isolate a VIP segment responsible for 66% of total revenue
+- Engineered 15+ customer behavior features to support marketing and retention analysis
+- Evaluated customer lifetime value against acquisition cost to assess whether the VIP segment was worth targeting further
+
+### ⚽ Football Analytics & Prediction
+*End-to-end pipeline over 10 seasons of Premier League data — XGBoost model beating baseline by 21%*
+
+- Consolidated 10 seasons of match data into a clean SQL pipeline covering 3,800+ matches
+- Engineered rolling team-form features and trained an XGBoost model with strict temporal validation
+- Improved prediction accuracy by 21% over baseline
+- Delivered insights through Tableau and Streamlit dashboards for comparative team analysis
 
 ### ❤️ Cardiovascular Risk Analysis
-- Analyzed **319K patient records** to support preventive screening and risk stratification  
-- Evaluated recall–precision trade-offs to minimize missed high-risk cases  
-- Designed interpretable metrics (e.g., patients flagged per 1,000) aligned with operational constraints  
-- Emphasized data quality, validation, and real-world feasibility
+*Risk scoring on 319K+ clinical records — cut missed high-risk cases by 67% under severe class imbalance*
+
+- Cleaned and analyzed 319K+ clinical records across 18 features
+- Trained a logistic regression model and tuned risk thresholds to address a severe 91:9 class imbalance
+- Reduced missed high-risk cases by 67%
+- Designed interpretable risk scores usable by non-technical stakeholders
 
 ---
 
@@ -48,22 +68,22 @@ I prioritize analysis that actually gets used, valuing rigor, clarity, and real-
 - Analysis should be **decision-oriented**, not output-oriented  
 - Data quality and assumptions matter more than model complexity  
 - Good analytics balances rigor, interpretability, and operational reality  
-- **AI-assisted analytics** are valuable when they enhance—not replace—sound statistical thinking
+- **AI-assisted analytics** are valuable when they enhance, not replace sound statistical thinking
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages & Databases:**  
-Python, SQL, PostgreSQL, SQLite, Snowflake  
+Python, SQL, PostgreSQL, SQLite
 
 **Analytics & Modeling:**  
-Pandas, NumPy, scikit-learn, Statistical Analysis, EDA  
+Pandas, NumPy, scikit-learn, Statistical Analysis, EDA
 
 **BI & Visualization:**  
-Power BI, Tableau, Plotly, Matplotlib  
+Power BI, Tableau, Plotly, Matplotlib
 
 **Data Engineering:**  
-ETL pipelines, Databricks (SQL Warehouse), Data Modeling
+ETL pipelines, Data Modeling
 
 ---
 
@@ -71,4 +91,4 @@ ETL pipelines, Databricks (SQL Warehouse), Data Modeling
 - 💼 LinkedIn: www.linkedin.com/in/abhidhindsa
 - 📧 Email: dhindsaabhinav@gmail.com
 
-If you care about analytics that drives decisions—not just dashboards—we’ll get along.
+If you care about analytics that drives decisions and not just dashboards, we’ll get along.
